@@ -1,0 +1,15 @@
+
+.panel{
+    max-width: 800px;
+    margin: auto;
+    background: rgb(235, 173, 129);
+}
+
+.text-center{
+    text-align: center;
+    color: aqua;
+}
+
+table, tr, td{
+    border: 1px solid rgb(102, 153, 76);
+}
